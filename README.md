@@ -1,6 +1,5 @@
 # [InstanceSegFrac-TMI-2025]
-A universal framework for fracture segmentation
-
+[Code is comming soon even accepted by TMI]
 Welcome to the official repository for the InstanceSegFrac.
 
 ## News & Updates
@@ -8,7 +7,6 @@ Welcome to the official repository for the InstanceSegFrac.
 ## Models Available
 
 ## Getting Started
-[Code is comming soon even accepted by TMI]
 To get started, follow these steps:
 
 1. Clone the Repository
