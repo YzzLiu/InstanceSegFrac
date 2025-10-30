@@ -1,6 +1,7 @@
 # [InstanceSegFrac-TMI-2025]
-[Code is comming soon even accepted by TMI]
 Welcome to the official repository for the InstanceSegFrac.
+
+**Code and model will be released on acceptance of the paper!**
 
 ## News & Updates
 
