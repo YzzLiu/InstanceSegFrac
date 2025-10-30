@@ -37,6 +37,6 @@ We follow the [nnU-Net V2](https://github.com/MIC-DKFZ/nnUNet?tab=readme-ov-file
 If you utilize the baselines in this repository for your research, please consider citing the relevant papers.
 
 ## Datasets
-**PENGWIN**:[PENGWIN Challenge](https://pengwin.grand-challenge.org/)
+**PENGWIN**: [PENGWIN Challenge](pengwin.grand-challenge.org/)
 
 **CTPelvic1K**:[CTPelvic1K Datasets](https://github.com/MIRACLE-Center/CTPelvic1K)
