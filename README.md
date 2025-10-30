@@ -36,8 +36,3 @@ We follow the [nnU-Net V2](https://github.com/MIC-DKFZ/nnUNet?tab=readme-ov-file
 ## Citation
 If you utilize the baselines in this repository for your research, please consider citing the relevant papers.
 
-
-## Acknowledgements
-
-We would like to acknowledge the contributions of [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) and the authors of the baseline models: [LightM-UNet](https://github.com/mrblankness/lightm-unet), [MedNeXT](https://github.com/MIC-DKFZ/MedNeXt), and [SAMed](https://github.com/hitachinsk/SAMed). This repository builds upon their foundational code and work.
-
